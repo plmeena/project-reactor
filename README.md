@@ -1,2 +1,2 @@
 # project-reactor
-Project-Reactor:  Mono and FLUX
+Project-Reactor:  Mono and Flux
